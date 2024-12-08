@@ -13,12 +13,10 @@ This repository provides a framework and visualization tool to evaluate the cons
 - Develop more advanced algorithms/metrics for consistency score evaluation.
 - Extend pairwise sequence alignment consistency metric compatibility to MSA.
 
-**License:** MIT
-
----
-
 ## References
 
-1. Rao, R. M., Meier, J., Sercu, T., Ovchinnikov, S., & Rives, A. (2020). Transformer protein language models are unsupervised structure learners. *bioRxiv*. [DOI:10.1101/2020.12.15.422761](https://www.biorxiv.org/content/10.1101/2020.12.15.422761v1)
+1. Rao, R., Meier, J., Sercu, T., Ovchinnikov, S., & Rives, A. (2020). Transformer protein language models are unsupervised structure learners. *bioRxiv*. [DOI:10.1101/2020.12.15.422761](https://doi.org/10.1101/2020.12.15.422761)
 
-2. Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., Smetanin, N., dos Santos Costa, A., Fazel-Zarandi, M., Sercu, T., Candido, S., & others. (2022). Language models of protein sequences at the scale of evolution enable accurate structure prediction. *bioRxiv*. [Publisher: Cold Spring Harbor Laboratory](https://www.biorxiv.org/)
+2. Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., dos Santos Costa, A., Fazel-Zarandi, M., Sercu, T., Candido, S., & Rives, A. (2022). Language models of protein sequences at the scale of evolution enable accurate structure prediction. *bioRxiv*. [DOI:10.1101/2022.07.20.500902](https://doi.org/10.1101/2022.07.20.500902)
+
+## License:** MIT
