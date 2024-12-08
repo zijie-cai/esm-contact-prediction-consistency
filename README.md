@@ -6,7 +6,7 @@ This repository provides a framework and visualization tool to evaluate the cons
 
 ## Key Features
 - Fetch PFAM seed alignments by specifying a PFAM ID (e.g. `PF00069`).
-- Load & evaluate ESM-2 models of different sizes on chosen pairs of sequences.
-- Visualize contact maps and compute consistency scores with adjustable parameters.
+- Load & evaluate ESM-2 models of different sizes on selected pairs of sequences.
+- Visualize contact maps and compute consistency scores with adjustable threshold parameters.
 
 **License:** MIT
