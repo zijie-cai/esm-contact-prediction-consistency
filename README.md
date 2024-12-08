@@ -19,4 +19,5 @@ This repository provides a framework and visualization tool to evaluate the cons
 
 2. Lin, Z., Akin, H., Rao, R., Hie, B., Zhu, Z., Lu, W., dos Santos Costa, A., Fazel-Zarandi, M., Sercu, T., Candido, S., & Rives, A. (2022). Language models of protein sequences at the scale of evolution enable accurate structure prediction. *bioRxiv*. [DOI:10.1101/2022.07.20.500902](https://doi.org/10.1101/2022.07.20.500902)
 
-## License:** MIT
+## License
+This source code is licensed under the MIT license, which can be found in the LICENSE file in the root directory of this source tree.
