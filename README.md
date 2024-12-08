@@ -1,4 +1,4 @@
-## ESM vs. MSA: A Consistency Analysis in Protein Contact Prediction
+## ESM vs. MSA: A LLM-Based Consistency Analysis in Protein Contact Prediction
 
 ### [Paper (coming soon)](#) | [Data](https://www.ebi.ac.uk/interpro/entry/pfam/#table)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wz8o5HeZKbKzjjCMBisdzUlsUw6fF_g1?usp=sharing)<br>
