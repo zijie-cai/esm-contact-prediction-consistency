@@ -9,4 +9,8 @@ This repository provides a framework and visualization tool to evaluate the cons
 - Load & evaluate ESM-2 models of different sizes on selected pairs of sequences.
 - Visualize contact maps and compute consistency scores with adjustable threshold parameters.
 
+## To Do
+- Develop more advanced algorithms/metrics for consistency score evaluation.
+- Extend pairwise sequence alignment consistency metric compatibility to MSA.
+
 **License:** MIT
