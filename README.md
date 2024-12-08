@@ -1,9 +1,6 @@
 # ESM vs. MSA: A Consistency Analysis in Protein Contact Prediction
 
-This repository provides a framework to analyze the consistency of protein contact predictions between Meta’s LLM-based Evolutionary Scale Modeling (ESM) and predictions derived from Multiple Sequence Alignments (MSA). It focuses on comparing pairwise contact predictions for sequences within a protein family retrieved from the PFAM database.
-
-**Author:** Zijie Cai
-
+This repository provides a framework and visualization tool to analyze the consistency of protein contact predictions between Meta’s LLM-based Evolutionary Scale Modeling (ESM) and predictions derived from Multiple Sequence Alignments (MSA). It focuses on comparing pairwise contact predictions for sequences within a protein family retrieved from the PFAM database.
 ---
 
 ## Overview
