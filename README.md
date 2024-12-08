@@ -1,13 +1,13 @@
 ## ESM vs. MSA: A Consistency Analysis in Protein Contact Prediction
 
-### [Paper (coming soon)](#) | [Data](https://www.ebi.ac.uk/interpro/entry/pfam/#table)
+### [Paper (Coming Soon)](#) | [Data](https://www.ebi.ac.uk/interpro/entry/pfam/#table)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wz8o5HeZKbKzjjCMBisdzUlsUw6fF_g1?usp=sharing)
 
-This repository provides a framework and visualization tool to evaluate the consistency of protein contact predictions from ESM-2 models against MSA. 
+This repository provides an interactive framework and visualization tool for comparing protein contact predictions from ESM-2 models to those derived from multiple sequence alignments (MSA).
 
 **Key Features:**
-- Fetch and download PFAM seed alignments with ID input (e.g. PF00069)
-- Load & evaluate pre-trained ESM-2 models with varying sizes on pairwise sequences
-- Visualize contact maps & compute consistency scores with adjustable confidence and distance threshold
+- **Fetch PFAM Seed Alignments:** Input a PFAM ID (e.g., `PF00069`) to download and analyze corresponding seed alignments.
+- **ESM-2 Model Evaluation:** Easily load and compare multiple pre-trained ESM-2 models on selected pairs of sequences.
+- **Interactive Visualizations:** Explore contact maps and compute consistency scores, adjusting confidence and distance thresholds in real-time.
 
 **License:** MIT
