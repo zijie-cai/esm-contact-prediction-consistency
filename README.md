@@ -21,4 +21,4 @@ This repository provides a framework and visualization tool to evaluate the cons
 
 ## License
 
-This source code is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file in the root directory for details.
+This source code is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file in the root directory for more details.
