@@ -13,7 +13,7 @@ This repository provides a framework and visualization tool to evaluate the cons
 ## To Do
 - Develop more advanced algorithms/metrics for consistency score evaluation.
 - Extend pairwise sequence alignment consistency metric compatibility to MSA.
-- Optimize visualization and fix some minor bugs.
+- Optimize visualization and fix some minor display bugs.
 
 ## References
 
